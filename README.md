@@ -21,7 +21,6 @@
 ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/django%20-%23092E20.svg?&style=flat&logo=django&logoColor=white)
-![](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=flat&logo=SASS&logoColor=white)
 ![](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=flat&logo=Repl.it&logoColor=white)
 ![](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
@@ -40,8 +39,8 @@
 ## Contact:
 [![](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubh-joshi-481abb1ba/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=shubhjoshi80@gmail.com)
-[![](https://img.shields.io/badge/Kaggle-141321?style=flat&logoColor=blue)](https://www.kaggle.com/gnitch)
+[![](https://img.shields.io/badge/Kaggle-141321?style=flat&logoColor=blue)](https://www.kaggle.com/shubhjoshi)
 
 
-![ShubhJoshi-557 github stats](https://github-readme-stats.vercel.app/api?username=ShubhJoshi-557&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhJoshi-557&theme=tokyonight&langs_count=10&layout=compact)
+![ShubhJoshi-557 github stats](https://github-readme-stats.vercel.app/api?username=ShubhJoshi-557&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhJoshi-557&theme=tokyonight&langs_count=6&layout=compact)
