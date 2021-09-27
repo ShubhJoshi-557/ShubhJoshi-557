@@ -5,7 +5,7 @@
 - ⚡ I build web apps for Fun.
 - 🖥️ Interested in Deep Learning.
 - 🌱 I’m currently learning MERN Stack.
-- 🌸 I like to play Video Games.
+- 🎮 I like to play Video Games.
 
 ## Languages:
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
