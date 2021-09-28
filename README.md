@@ -11,11 +11,11 @@
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white)
-![](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=flat&logo=c++&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 ## Technologies:
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
@@ -41,7 +41,7 @@
 [![](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubh-joshi-481abb1ba/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=shubhjoshi80@gmail.com)
 [![](https://img.shields.io/badge/Kaggle-141321?style=flat&logoColor=blue)](https://www.kaggle.com/shubhjoshi)
-![](https://img.shields.io/badge/SSJ%236888-141321?style=for-the-badge&logo=discord)
+![](https://img.shields.io/badge/SSJ%236888-141321?style=flat&logo=discord)
 
 
 ![ShubhJoshi-557 github stats](https://github-readme-stats.vercel.app/api?username=ShubhJoshi-557&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=contribs,issues)
