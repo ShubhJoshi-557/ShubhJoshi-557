@@ -45,5 +45,5 @@
 ![](https://img.shields.io/badge/SSJ%236888-141321?style=flat&logo=discord)
 
 
-![ShubhJoshi-557 github stats](https://github-readme-stats.vercel.app/api?username=ShubhJoshi-557&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
+![ShubhJoshi-557 github stats](https://github-readme-stats.vercel.app/api?username=ShubhJoshi-557&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=contribs,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhJoshi-557&theme=tokyonight&langs_count=6&layout=compact)
