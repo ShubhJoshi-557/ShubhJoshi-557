@@ -9,6 +9,7 @@
 
 ## Let's Connect
 - My Website: https://portfolio-shubhjoshi-557.vercel.app/
+- Email: shubhjoshi80@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shubhjoshi557/
 
 ## Languages:
