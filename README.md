@@ -7,6 +7,10 @@
 - 🌱 I’m currently learning MERN Stack.
 - 🎮 I like to play Video Games.
 
+## Let's Connect
+My Wbsite: https://portfolio-shubhjoshi-557.vercel.app/
+LinkedIn: https://www.linkedin.com/in/shubhjoshi557/
+
 ## Languages:
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
