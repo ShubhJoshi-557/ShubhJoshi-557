@@ -3,7 +3,7 @@
 
 - 🌸 I'm Shubh Joshi.
 - ⚡ I build web apps for Fun.
-- 🖥️ I find Software Development & Devops interesting.
+- 🖥️ I find Software Development interesting.
 - 🌱 I’m currently learning Next.js.
 - 🎮 I like to play Video Games.
 
